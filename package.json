@@ -1,5 +1,5 @@
 {
-  "name": "marishow",
+  "name": "maribot-demo",
   "version": "0.1.0",
   "description": "마리봇을 브라우저에서 바로 체험해볼 수 있는 디스코드 스타일 데모 플랫폼",
   "private": true,
